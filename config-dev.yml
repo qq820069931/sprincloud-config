@@ -12,7 +12,7 @@ spring:
       label: master
 
 user:
-  age: 15
+  age: 16
 
 eureka:
   client:
